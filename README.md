@@ -1,2 +1,3 @@
 # odin-recipes
-Part of The Odin Project's foundation course. From the lesson entitled "Project: Recipes".
+A simple food recipe web page.
+As a mean of practicing basic HTML.
