@@ -1,0 +1,29 @@
+body {
+    background-color: #cfcfcf;
+}
+
+* {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 15.5px;
+    color: rgb(0, 0, 0, 1.0);
+}
+
+.food-photo {
+    height: 300px;
+    width: auto;
+}
+
+.img-caption {
+    font-size: 13.5px;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 19px;
+    font-weight: 500;
+}
