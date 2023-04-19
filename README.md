@@ -1,3 +1,3 @@
 # odin-recipes
-A simple food recipe web page.
-As a mean of practicing basic HTML.
+A simple food recipe website.
+A mean of practicing basic HTML.
